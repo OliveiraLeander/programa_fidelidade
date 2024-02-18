@@ -1,0 +1,1 @@
+Eu usei Python, estatística e técnicas não-supervisionadas de Machine Learning para segmentar um grupo de clientes com base em suas características de performance de compra, a fim de selecionar grupos de clientes para formar um programa de fidelidade com o objetivo de aumentar a receita da empresa.
